@@ -30,7 +30,7 @@ Public identifiers are not credentials. Return using the original browser or pri
 
 Before fundraising opens, implement and test treasury/network configuration, wallet connection, server quotes, ETH/USDG receipt verification, confirmation policy, transaction uniqueness, USD valuation, phase limits, pending/failed payments, reconciliation and threshold transitions. Changing `paymentsEnabled` alone intentionally does not enable payment collection.
 
-The approved mascot artwork is still needed for final integration. The notice currently uses a standard badge icon.
+Official artwork lives in `public/brand`: image 3 is the unchanged square neon-green PFP (`sheriff-pfp.png`), image 2 is the transparent website/card cutout (`sheriff-cutout.png`), and image 1 is the identity icon for the favicon and Deputy/Taxpayer seals (`sheriff-icon.png`). All three PNG originals are preserved byte-for-byte.
 
 ## Deployment and validation
 
