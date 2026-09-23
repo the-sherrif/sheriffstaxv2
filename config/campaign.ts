@@ -3,7 +3,7 @@ export type CampaignPhase = 'PRE_LAUNCH' | 'TAX_RICH' | 'TAX_POOR' | 'COMPLETED'
 export const campaign = {
   name: 'The Sheriff’s Tax',
   phase: 'PRE_LAUNCH' as CampaignPhase,
-  siteUrl: 'https://sheriffs-tax-registry.rhadokrypt.chatgpt.site',
+  siteUrl: 'https://sherifftax.xyz',
   sheriffHandle: 'sheriffstax',
   githubUrl: 'https://github.com/the-sherrif/sheriffstaxv2',
   foundingLimit: 100,

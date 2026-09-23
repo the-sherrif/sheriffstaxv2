@@ -53,6 +53,9 @@ export default defineConfig(async () => {
       vinext(),
       sites(),
       cloudflare({
+        // The root Wrangler config targets Pages. Vite still builds the same
+        // Worker module using the original local bindings before packaging it.
+        configPath: './wrangler.build.json',
         viteEnvironment: { name: 'rsc', childEnvironments: ['ssr'] },
         config: localBindingConfig,
       }),

@@ -8,6 +8,27 @@
       "when": 1789054718879,
       "tag": "0000_gigantic_absorbing_man",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1789392160918,
+      "tag": "0001_authorized_cruze_test_badge",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1789392500025,
+      "tag": "0002_restore_failed_test_call",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1789543200999,
+      "tag": "0003_revert_cruze_test_badge",
+      "breakpoints": true
     }
   ]
 }
