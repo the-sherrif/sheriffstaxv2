@@ -8,7 +8,7 @@
     {
       "binding": "DB",
       "database_name": "sheriffs-tax",
-      "database_id": "00000000-0000-4000-8000-000000000000",
+      "database_id": "ee58bf41-6c45-40e1-8f7a-7f4e706de950",
       "migrations_dir": "drizzle"
     }
   ]
